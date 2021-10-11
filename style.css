@@ -27,6 +27,7 @@ main{
 	font: bold 2.5rem serif;
 	border-bottom: solid 5px black;
 	margin-bottom: 20px;
+	font-color: #ff0000;
 }
 
 .input {
